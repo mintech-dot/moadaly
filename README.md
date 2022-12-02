@@ -77,7 +77,20 @@ For example a new level named "L3ML"
 5. Test if it works
 6. The menu must be updated automatically
 
+## To Use
 
+To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+git https://github.com/mintech-dot/moadaly
+# Go into the repository
+cd moadaly
+# Install dependencies
+npm install
+# Run the app
+npm start
+```
 
 
 
