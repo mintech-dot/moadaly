@@ -559,13 +559,7 @@ function create_menu(current_page="", item_list=[])
 
         
     $("#navbarTextList").append(menu_item);
-    }
-    // fix menu items
-    menu_item= `<li id="3em" class="nav-item">
-                            <a class="nav-link" href="canevas/about.html">About</a>
-                        </li> 
-                    `;
-    $("#navbarTextList").append(menu_item);                    
+    }                  
 }
 function create_initial_checkpoint()
 {
