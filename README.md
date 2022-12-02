@@ -17,7 +17,7 @@ See  : [SourceCode](https://github.com/madjsmail/moadaly)
 
 ## Moadaly
 
-* is a web application that allow you to calculate your pass marks. The app is for computer science student " LMD "   
+* is a desktop application that allow you to calculate your pass marks. The app is for computer science student " LMD "   
 * تطبيق سطح مكتب لحساب المعدل الفصلي و السنوي للسنة الاولى  رياضيات وإعلام آلي وسنوات اعلام الى   نظام [LMD] الجزائر 
 
 * التخصصات المدعومة حاليا:
