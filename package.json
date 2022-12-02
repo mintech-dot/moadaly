@@ -1,28 +1,24 @@
 {
-  "name": "electronjs-login-screen",
+  "name": "moadaly",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "محاكي حساب المعدل لطلبة نظام ل.م.د تخصص رياضيات وإعلام آلي يستعمل لكل الجامعات التي تتابع نفس المنهاج لميدان الرياضيات والإعلام الآلي في الجزائر",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mintech-dot/electronjs-auth"
+    "url": "https://github.com/mintech-dot/moadaly"
   },
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Electron"
   ],
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^20.1.4"
   },
-  "homepage": "https://github.com/mintech-dot/electronjs-auth/blob/master/README.md",
+  "homepage": "https://github.com/mintech-dot/moadaly/blob/master/README.md",
   "dependencies": {
     "express": "^4.18.1",
     "js": "^0.1.0"
