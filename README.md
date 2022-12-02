@@ -18,7 +18,7 @@ See  : [SourceCode](https://github.com/madjsmail/moadaly)
 ## Moadaly
 
 * is a web application that allow you to calculate your pass marks. The app is for computer science student " LMD "   
-* تطبيق ويب لحساب المعدل الفصلي و السنوي للسنة الاولى  رياضيات وإعلام آلي وسنوات اعلام الى   نظام [LMD] الجزائر 
+* تطبيق سطح مكتب لحساب المعدل الفصلي و السنوي للسنة الاولى  رياضيات وإعلام آلي وسنوات اعلام الى   نظام [LMD] الجزائر 
 
 * التخصصات المدعومة حاليا:
   * L1 MI
@@ -52,11 +52,13 @@ Testing is much appreciated. Please post any issue you find in the [Issue tracke
 * [**Taha Zerrouki**](https://github.com/linuxscout/)
 * [**Tarek Berkane**](https://github.com/tarekDZ2019) *mobile app*
 * [**Aouf Ali**](https://github.com/Sho-Oter)  *design* 
+* [**Raid Sobhi**](https://github.com/mintech-dot/) *Desktop app*
 
 ## Built With
 * [HTML/CSS]
 * [bootstrap/shards] -the  css framework  used 
 * [jquery ]   - java script framework
+* [Electron js] - java script framework
 
 ## Contribution
 * Adapt this app for more specialities (ST, SM, etc..)
@@ -74,6 +76,7 @@ For example a new level named "L3ML"
  ```
 5. Test if it works
 6. The menu must be updated automatically
+
 
 
 
